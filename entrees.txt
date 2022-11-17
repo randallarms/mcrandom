@@ -1,0 +1,19 @@
+Big Mac
+Quarter Pounder with Cheese
+Bacon Quarter Pounder with Cheese
+Double Quarter Pounder
+Cheeseburger
+Double Cheeseburger
+Triple Cheeseburger
+McDouble
+Bacon McDouble
+Hamburger
+Double Hamburger
+Triple Hamburger
+McChicken
+Hot and Spicy McChicken
+Crispy Chicken Sandwich
+Spicy Crispy Chicken Sandwich
+Filet-O-Fish
+French Fries
+Chicken McNuggets
