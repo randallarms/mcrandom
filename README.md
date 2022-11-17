@@ -1,5 +1,5 @@
 MCRANDOM
---------
+========
 
 Generate random McDonald's orders
 and feast like a degenerate.
@@ -7,7 +7,7 @@ and feast like a degenerate.
 ------------
 
 Instructions
-============
+------------
 
 How to run:
 
