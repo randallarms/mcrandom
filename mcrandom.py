@@ -1,9 +1,3 @@
-#======================================#
-#               McRandom               #
-#           by Randall Arms            #
-#    github.com/randallarms/mcrandom   #
-#======================================#
-
 from random import randint
 import os
 
