@@ -9,6 +9,19 @@ and feast like a degenerate.
 Instructions
 ------------
 
+Commands
+--------
+
+Enter these phrases as commands to alter the order:
+
+"small", "large" or "medium"
+"breakfast"
+"dessert"
+"mcrib"
+
+How to run
+----------
+
 How to run via Python:
 
  0. Ensure that the McRandom folder is unzipped and on your Desktop.
