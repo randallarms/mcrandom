@@ -7,17 +7,17 @@ and feast like a degenerate.
 ------------
 
 Instructions
-------------
+============
 
 Commands
 --------
 
 Enter these phrases as commands to alter the order:
 
-"small", "large" or "medium" * Size of meal.
-"breakfast" * Breakfast entree instead of lunch/dinner.
-"dessert" * Dessert w/ order.
-"mcrib" * Chance at McRib.
+ "small", "large" or "medium" * Size of meal.
+ "breakfast" * Breakfast entree instead of lunch/dinner.
+ "dessert" * Dessert w/ order.
+ "mcrib" * Chance at McRib.
 
 How to run
 ----------
