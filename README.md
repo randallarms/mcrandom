@@ -9,7 +9,15 @@ and feast like a degenerate.
 Instructions
 ------------
 
-How to run:
+How to run via Python:
+
+ 0. Ensure that the McRandom folder is unzipped and on your Desktop.
+ 1. Navigate to the McRandom folder and run the "mcrandom.py" file.
+ 2. Press Enter at the prompt to generate an order. Type "exit" into the prompt to quit.
+ 
+tl;dr: Run "mcrandom.py"
+
+How to run via CLI:
 
  0. Ensure that the McRandom folder is unzipped and on your Desktop.
  1. Open "Command Prompt" (Windows search: "Command Prompt").
