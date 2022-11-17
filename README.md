@@ -1,13 +1,13 @@
-========
 MCRANDOM
-========
+--------
 
 Generate random McDonald's orders
 and feast like a degenerate.
 
 ------------
+
 Instructions
-------------
+============
 
 How to run:
 
@@ -20,6 +20,7 @@ How to run:
 tl;dr: Command Prompt -> "cd Desktop" -> "python McRandom/mcrandom.py" -> Press Enter
 
 -----
+
 Notes
 -----
 
