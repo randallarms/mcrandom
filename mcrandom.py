@@ -16,10 +16,10 @@ def order_gen():
     # Get files
     __location__ = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file__)))
     
-    entrees = open(os.path.join(__location__, "entrees.txt"), "r")
-    drinks = open(os.path.join(__location__, "drinks.txt"), "r")
-    desserts = open(os.path.join(__location__, "desserts.txt"), "r")
-    breakfasts = open(os.path.join(__location__, "breakfasts.txt"), "r")
+    entrees = open(os.path.join(__location__, "menu/entrees.txt"), "r")
+    drinks = open(os.path.join(__location__, "menu/drinks.txt"), "r")
+    desserts = open(os.path.join(__location__, "menu/desserts.txt"), "r")
+    breakfasts = open(os.path.join(__location__, "menu/breakfasts.txt"), "r")
     
     # Fill list of possible names from file
     list_entrees = []
